@@ -11,7 +11,9 @@
 		
 		<h1>Cours de Cryptographie</h1>
 		<br />
-		<p>Bienvenue au site du cours introductif à la cryptographie, proposé par <a href="https://nadim.computer" target="_blank">Nadim Kobeissi</a> à partir de Juin 2015, au <a target="_blank" href="https://leloop.org/">Loop</a>. Le cours est gratuit. Vous pouvez le suivre en ligne ou venir nous joindre chaque Samedi.</p>
+		<p>Bienvenue au site du cours introductif à la cryptographie, proposé par <a href="https://nadim.computer" target="_blank">Nadim Kobeissi</a> à partir de Juin 2015, au <a target="_blank" href="https://leloop.org/">Loop</a>.
+		<br />
+		Le cours est gratuit. Vous pouvez le suivre en ligne ou venir nous joindre chaque Samedi.</p>
 
 		<h2>Nouvelles</h2>
 		<p>Le prochain cours se déroule le Samedi 27 Juin, a 12h00, a Loop (20 rue de Reuilly).</p>
