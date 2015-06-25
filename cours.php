@@ -13,6 +13,7 @@ $lesson=$cours[$id];
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
    <title>Cours de Crypto #<?php echo $id." - ".$lesson; ?></title>
 <link rel="stylesheet" href="/css/bootstrap.min.css">
+<link rel="stylesheet" href="/mediaelement/mediaelementplayer.css" />
 <script src="/mediaelement/build/mediaelement.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 </head>
