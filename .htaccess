@@ -1,0 +1,5 @@
+
+RewriteEngine On
+RewriteRule cours-crypto-([0-9]*)  /cours.php?id=$1 [L]
+
+
