@@ -8,7 +8,7 @@
 
 <body>
 <div class="container-fluid row-fluid">
-  
+
   <h1>Cours de Crypto</h1>
   
   <p>Cette page présente les cours de crypto proposés par <a href="https://twitter.com/@kaepora" target="_blank">Nadim Kobeissi</a> à partir de Juin 2015, au <a target="_blank" href="https://leloop.org/">Loop</a>.</p>
@@ -21,7 +21,7 @@
 
    require_once("config.php");
 foreach($cours as $id=>$lesson) {
-  echo "<li><a href=\"cours-crypto-$id\">Lesson $id: $lesson</a></li>";
+  echo "<li><a href=\"cours-crypto-$id\">Session $id: $lesson</a></li>";
 }  
 ?>
 </ul>
