@@ -5,6 +5,7 @@
 	<title>Cours Introductif à la Cryptographie</title>
 	<style type="text/css">
 		p.license {
+			margin-top: 50px;
 			opacity: 0.8;
 			color: #555;
 			font-size: 0.7em;
