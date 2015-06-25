@@ -13,21 +13,21 @@
 		<br />
 		<p>Bienvenue au site du cours introductif à la cryptographie, proposé par <a href="https://nadim.computer" target="_blank">Nadim Kobeissi</a> à partir de Juin 2015, au <a target="_blank" href="https://leloop.org/">Loop</a>.
 		<br />
-		Le cours est gratuit. Vous pouvez le suivre en ligne ou venir nous joindre chaque Samedi.</p>
+		Le cours est gratuit. Vous pouvez le suivre en ligne ou venir nous joindre chaque samedi.</p>
 
 		<h2>Nouvelles</h2>
-		<p>Le prochain cours se déroule le Samedi 27 Juin, a 12h00, a Loop (20 rue de Reuilly).</p>
+                <p>Le prochain cours se déroule le samedi 27 juin, à 12h00, au Loop (20, rue de Reuilly).</p>
 
 		<h2>Matériel</h2>
 		<ul>
-			<li><a href="https://github.com/kaepora/courscrypto/blob/master/PROGRAMME.md">Programme du cours</a> avec <strong>dates</strong>, <strong>location du cours</strong>, et autres infos importantes.</li>
+			<li><a href="https://github.com/kaepora/courscrypto/blob/master/PROGRAMME.md">Programme du cours</a> avec <strong>dates</strong>, <strong>lieu du cours</strong>, et autres infos importantes.</li>
 			<li><a href="https://github.com/kaepora/courscrypto/tree/master/slides">Slides</a> de chaque session.</li>
 			<li><a href="https://github.com/kaepora/courscrypto/tree/master/devoirs">Devoirs</a> pour chaque session.</li>
 			<li><a href="https://github.com/kaepora/courscrypto/tree/master/projets">Projets</a> du cours et des participants.</li>
-			<li><a href="https://github.com/kaepora/courscrypto/issues/">Discussion</a> en-ligne des sessions, devoirs, etc.</li>
+			<li><a href="https://github.com/kaepora/courscrypto/issues/">Discussion</a> en ligne des sessions, devoirs, etc.</li>
 		</ul>
 		
-		<h2>Videos</h2>
+		<h2>Vidéos</h2>
 		<ul>
 			<?php
 				require_once("config.php");
