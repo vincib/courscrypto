@@ -25,8 +25,7 @@
 
 		<h2>Nouvelles</h2>
                 <p>
-                	Le deuxieme cours s'est bien passé! Les slides sont en ligne.<br />
-                	Les devoirs et TPs de cette semaine, et les corrections de la semaine dernière seront en ligne ce soir. Le video, Lundi.<br />
+                	Le deuxieme cours s'est bien passé! Les slides, devoirs et travaux pratiques sont en ligne. Le video, lundi!<br />
                 	Le prochain cours se déroule le samedi 4 juillet, à <strong style="color:red">13h00</strong>, au Loop (20, rue de Reuilly).</p>
 
 		<h2>Matériel</h2>
