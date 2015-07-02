@@ -25,8 +25,8 @@ $lesson=$cours[$id];
 
   
 <video width="800" height="450" id="player1" controls="controls">
- <source src="https://video.octopuce.fr/courscrypto/cours-crypto-1.mp4" type="video/mp4" />  
- <source src="https://video.octopuce.fr/courscrypto/cours-crypto-1.webm" type="video/webm" />  
+ <source src="https://video.octopuce.fr/courscrypto/cours-crypto-<?php echo $id; ?>.mp4" type="video/mp4" />  
+ <source src="https://video.octopuce.fr/courscrypto/cours-crypto-<?php echo $id; ?>.webm" type="video/webm" />  
 </video>
 
   <p>Vous pouvez aussi télécharger les slides, le fichier vidéo ou audio grâce aux liens ci-dessous:</p>
