@@ -2,7 +2,7 @@
 
 $cours=array(
 	     1 => "Histoire de la cryptographie",
-	     3 => "Chiffrement de flux",
+	     2 => "Chiffrement de flux",
 	     );
 
 $slides=array(
