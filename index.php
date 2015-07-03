@@ -26,7 +26,7 @@
 		<h2>Nouvelles</h2>
                 <p>
                 	Le deuxieme cours s'est bien passé!<br />
-                	Le prochain cours se déroule le samedi 4 juillet, à <strong style="color:red;font-size:2em">13h00</strong>, au Loop (20, rue de Reuilly).</p>
+                	Le prochain cours se déroule le samedi 4 juillet, à <strong style="color:red;font-size:2em;text-decoration:blink;">13h00</strong>, au Loop (20, rue de Reuilly).</p>
 
 		<h2>Matériel</h2>
 		<ul>
