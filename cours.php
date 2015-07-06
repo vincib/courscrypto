@@ -25,15 +25,21 @@ $lesson=$cours[$id];
 
   
 <video width="800" height="450" id="player1" controls="controls">
- <source src="https://video.octopuce.fr/courscrypto/cours-crypto-<?php echo $id; ?>.mp4" type="video/mp4" />  
- <source src="https://video.octopuce.fr/courscrypto/cours-crypto-<?php echo $id; ?>.webm" type="video/webm" />  
+  <source src="https://video.octopuce.fr/courscrypto/cours-crypto-<?php echo $id; ?>.mp4" type="video/mp4" autostart="false" />  
+  <source src="https://video.octopuce.fr/courscrypto/cours-crypto-<?php echo $id; ?>.webm" type="video/webm" autostart="false" />  
 </video>
 
   <p>Vous pouvez aussi télécharger les slides, le fichier vidéo ou audio grâce aux liens ci-dessous:</p>
 <ul>
-<li><a href="https://video.octopuce.fr/courscrypto/cours-crypto-<?php echo $id; ?>.mp4">Télécharger la vidéo au format H264/AAC/MP4</a></li>
-<li><a href="https://video.octopuce.fr/courscrypto/cours-crypto-<?php echo $id; ?>.webm">Télécharger la vidéo au format VP8/VORBIS/WEBM</a></li>
-<li><a href="https://video.octopuce.fr/courscrypto/cours-crypto-<?php echo $id; ?>.mp3">Télécharger l'audio seul au format MP3</a></li>
+  <li><a href="https://video.octopuce.fr/courscrypto/cours-crypto-<?php echo $id; ?>.mp4">Télécharger la vidéo au format H264/AAC/MP4<?php
+  if (isset($sizes[$id])) echo " (".$sizes[$id][1]." Mo)"; 
+?></a></li>
+  <li><a href="https://video.octopuce.fr/courscrypto/cours-crypto-<?php echo $id; ?>.webm">Télécharger la vidéo au format VP8/VORBIS/WEBM<?php
+  if (isset($sizes[$id])) echo " (".$sizes[$id][2]." Mo)"; 
+?></a></li>
+  <li><a href="https://video.octopuce.fr/courscrypto/cours-crypto-<?php echo $id; ?>.mp3">Télécharger l'audio seul au format MP3<?php
+  if (isset($sizes[$id])) echo " (".$sizes[$id][0]." Mo)"; 
+?></a></li>
 <?php
 if (isset($slides[$id])) {
 ?>

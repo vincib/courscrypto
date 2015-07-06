@@ -18,3 +18,8 @@ $discussion=array(
 		  3 => "https://github.com/kaepora/courscrypto/issues/6",
 		  );
 
+$sizes=array(
+	     1 => array( 30, 532, 504),
+	     2 => array( 41, 751, 680),
+	     3 => array( 43, 799, 725),
+	     );
