@@ -25,7 +25,7 @@
 
 		<h2>Nouvelles</h2>
                 <p>
-                	Le troisième cours s'est bien passé! Les slides sont en ligne, le devoir vient dans quelques heures.<br />
+                	Le troisième cours s'est bien passé! Les slides et le devoir sont en ligne.<br />
                 	Le prochain cours se déroule le samedi 11 juillet, à <strong style="color:red;font-size:2em;text-decoration:blink;">13h00</strong>, au Loop (20, rue de Reuilly).</p>
 
 		<h2>Matériel</h2>
