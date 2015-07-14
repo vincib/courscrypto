@@ -25,9 +25,9 @@
 
 		<h2>Nouvelles</h2>
                 <p>
-                	Le troisième cours s'est bien passé! Les slides et le devoir sont en ligne.<br />
-                	Le prochain cours se déroule le samedi 11 juillet, à <strong style="color:red;font-size:2em;text-decoration:blink;">13h00</strong>, au Loop (20, rue de Reuilly).</p>
-
+                	Le quatrième cours s'est bien passé! Ceci conclut la première partie du cours crypto (chiffrement symmetrique).<br />
+                	La deuxième partie (integrite cryptographique) commence le 22 Aout, mais ce site aura des mis-a-jours frequents avec des devoirs, corrections, etc.
+				</p>
 		<h2>Matériel</h2>
 		<ul>
 			<li><a href="https://github.com/kaepora/courscrypto/blob/master/PROGRAMME.md">Programme du cours</a> avec <strong>dates</strong>, <strong>lieu du cours</strong>, et autres infos importantes.</li>
