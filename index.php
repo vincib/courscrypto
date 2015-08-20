@@ -26,8 +26,8 @@
 		<h2>Nouvelles</h2>
                 <p>
                 	Le quatrième cours s'est bien passé! Ceci conclut la première partie du cours crypto (chiffrement symmetrique).<br />
-                	La deuxième partie (integrite cryptographique) commence le 22 Aout, mais ce site aura des mis-a-jours frequents avec des devoirs, corrections, etc.
-				</p>
+                	<strong>Cours Temporairement Suspendu</strong>Le Loop demenage et j'ai beaucoup trop de deadlines au travail. Je suis incapable de continuer le cours presentement.
+		</p>
 		<h2>Matériel</h2>
 		<ul>
 			<li><a href="https://github.com/kaepora/courscrypto/blob/master/PROGRAMME.md">Programme du cours</a> avec <strong>dates</strong>, <strong>lieu du cours</strong>, et autres infos importantes.</li>
